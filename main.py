@@ -1,5 +1,4 @@
-# David Mehovic 
-# Intro to Machine Learning assignment 1
+# David Mehovic
 
 # import statements used for random number generation, plotting and machine learning libs
 from sklearn.neighbors import KNeighborsClassifier
